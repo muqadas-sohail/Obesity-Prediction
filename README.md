@@ -1,6 +1,6 @@
-Obesity-Prediction
+# Obesity-Prediction
 
-Problem Definition
+## Problem Definition
 
 Obesity is a growing problem worldwide with the potential of an increased risk of cardiovascular dis-
 eases and cancers, (De-La-Hoz-Correa et al., 2019; WHO, 2021). The WHO (2021) defines overweight
